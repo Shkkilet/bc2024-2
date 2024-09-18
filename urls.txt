@@ -1,3 +1,3 @@
 http://backend.course#Shkkilet
-http://backend.course?name=%22Іванець%20Іван%22&github_name=ivanets123&group=%22ФЕІ-23с%22&subgroup=%22Підгрупа%201%22
+http://backend.course?name=%22Гук%20Михайло%22&github_name=Shkkilet&group=%22ФЕІ-24с%22&subgroup=%22Підгрупа%202%22
 https://bank.gov.ua/ua/markets/international-reserves-allinfo?date=2022-02-01json
