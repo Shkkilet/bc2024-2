@@ -10,15 +10,15 @@
 
     <!-- SEO meta -->
 
-    <link rel="alternate" hreflang="en" href="https://bank.gov.ua/en/markets/international-reserves-allinfo?date=2022-02-01json" />
-    <link rel="alternate" hreflang="uk" href="https://bank.gov.ua/ua/markets/international-reserves-allinfo?date=2022-02-01json">
+    <link rel="alternate" hreflang="en" href="https://bank.gov.ua/en/markets/international-reserves-allinfo?date=2022-02-01" />
+    <link rel="alternate" hreflang="uk" href="https://bank.gov.ua/ua/markets/international-reserves-allinfo?date=2022-02-01">
             <link rel="canonical" href="https://bank.gov.ua/ua/markets/international-reserves-allinfo" />
                                                             
             <!-- Open Graph Protocol -->
                               <meta property="og:title" content="Міжнародні резерви"/>
                   
         <meta property="og:site_name" content="Національний банк України"/>
-        <meta property="og:url" content="https://bank.gov.ua/ua/markets/international-reserves-allinfo?date=2022-02-01json"/>
+        <meta property="og:url" content="https://bank.gov.ua/ua/markets/international-reserves-allinfo?date=2022-02-01"/>
         <meta property="og:type" content="website"/>
         <meta property="fb:app_id" content="1971508842906558">
                                         <meta property="og:image" content="https://bank.gov.ua/admin_uploads/article/Default_photo_NBU_ua.png?v=7"/>
@@ -162,7 +162,7 @@
 
 
 <li class="tm_lang">
-                        <a href="https://bank.gov.ua/en/markets/international-reserves-allinfo?date=2022-02-01json"><span>En</span></a>
+                        <a href="https://bank.gov.ua/en/markets/international-reserves-allinfo?date=2022-02-01"><span>En</span></a>
             </li>                        </ul>
                     </nav>
                     <div class="show-lg-over">
@@ -224,20 +224,20 @@
                                         <div class="col-md-4">
                         <div class="post-item">
                                                                                                                     
-                                                        <a href="/ua/news/all/komentar-natsionalnogo-banku-schodo-rivnya-inflyatsiyi-v-lipni-2024-roku" class="navbar-post" 
-                                aria-label="Зображення для статті - Коментар Національного банку щодо рівня інфляції в липні 2024 року">
+                                                        <a href="/ua/news/all/komentar-natsionalnogo-banku-schodo-rivnya-inflyatsiyi-v-serpni-2024-roku" class="navbar-post" 
+                                aria-label="Зображення для статті - Коментар Національного банку щодо рівня інфляції в серпні 2024 року">
                                 <div class="image">
                                                                                                                                                             <picture>
-                                                <source type="image/webp" srcset="/admin_uploads/article/Inflation_1280x720_12-08-2024.jpg.webp?v=7">
-                                                <img src="/admin_uploads/article/Inflation_1280x720_12-08-2024.jpg?v=7" alt=""/>
+                                                <source type="image/webp" srcset="/admin_uploads/article/Inflation_1280x720-11-09-2024.jpg.webp?v=7">
+                                                <img src="/admin_uploads/article/Inflation_1280x720-11-09-2024.jpg?v=7" alt=""/>
                                             </picture>
                                                                                                             </div>
 
                                 <div class="mark">
                                     <i class="fa fa-clock-o"></i>
-                                                                            <time>12 серп. 2024 18:20</time>
+                                                                            <time>11 вер. 2024 21:10</time>
                                                                     </div>
-                                <p class="title">Коментар Національного банку щодо рівня інфляції в липні 2024 року</p>
+                                <p class="title">Коментар Національного банку щодо рівня інфляції в серпні 2024 року</p>
                             </a>
                                                     </div>
                     </div>
@@ -1796,5 +1796,5 @@
     </script>
 
         
-    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8c1ffba9d84aca3c',t:'MTcyNjE0NTAwNS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8c5804f5aced9019',t:'MTcyNjczMjU4OC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
